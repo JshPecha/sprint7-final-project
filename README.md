@@ -1,6 +1,7 @@
 # sprint7-final-project
 
 Análisis ConnectaTel
+
 Objetivo del proyecto
 
 Como analista de datos, el objetivo de este proyecto es evaluar el comportamiento de los clientes de ConnectaTel, una empresa de telecomunicaciones en Latinoamérica. Se busca identificar patrones de uso, segmentar a los clientes según su edad y nivel de consumo, y traducir esos hallazgos en recomendaciones accionables para el negocio.
