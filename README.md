@@ -15,6 +15,7 @@ users_latam.csv:	Información de los clientes (edad, ciudad, fecha de registro, 
 usage.csv:	Detalle de uso por cliente (llamadas, mensajes, fecha, duración)
 
 **Etapas del análisis**
+
 *Carga y exploración inicial*
 revisión de estructura, columnas y tipos de datos de los tres datasets.
 
