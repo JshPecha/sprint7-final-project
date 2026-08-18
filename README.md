@@ -17,7 +17,8 @@ usage.csv:	Detalle de uso por cliente (llamadas, mensajes, fecha, duración)
 **Etapas del análisis**
 
 *Carga y exploración inicial*
-revisión de estructura, columnas y tipos de datos de los tres datasets.
+
+Revisión de estructura, columnas y tipos de datos de los tres datasets.
 
 *Revisión y estandarización de fechas*
 
